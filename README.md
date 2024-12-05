@@ -12,7 +12,7 @@ Swoft Apollo Component
 - composer command
 
 ```bash
-composer require swoft/apollo
+composer require swoft-fork/apollo
 ```
 
 ## Resources
